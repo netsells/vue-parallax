@@ -1,0 +1,17 @@
+{
+  "name": "vue-parallax",
+  "version": "0.1.0",
+  "peerDependencies": {
+    "vue": ">=2"
+  },
+  "private": true,
+  "keywords": [
+    "vue",
+    "parallax"
+  ],
+  "main": "src/index.js",
+  "author": "Rowan Collins <rowancollins89@gmail.com>",
+  "dependencies": {
+    "vue": "^2.5.22"
+  }
+}
